@@ -1,0 +1,1 @@
+This situation can be avoided by designing the system such that each process acquires resources in a specific order and releases them in the reverse order. This ensures that there is no circular wait and that deadlock can be prevented.

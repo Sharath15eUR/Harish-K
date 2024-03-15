@@ -1,0 +1,1 @@
+An exec also produces a new process but does not keep the original,while a fork generates a new process while keeping its original process.

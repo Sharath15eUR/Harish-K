@@ -1,0 +1,5 @@
+1. run
+2. break
+3. continue
+4. clear
+5. print
