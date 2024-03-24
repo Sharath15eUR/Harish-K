@@ -1,0 +1,7 @@
+In client-server communication, the connection procedure generally involves the following steps:
+1.Server Initialization
+2.Client Request
+3.Server Acceptance
+4.Handshake
+5.Data Exchange
+6.Connection Termination
