@@ -1,0 +1,1 @@
+A datagram socket is a type of communication endpoint (socket) that uses the User Datagram Protocol (UDP) for communication. Unlike TCP, which provides a reliable, connection-oriented communication channel, UDP is connectionless and does not guarantee packet delivery or order.
